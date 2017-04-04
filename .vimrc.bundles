@@ -258,6 +258,12 @@
             let g:rubycomplete_buffer_loading = 1
             "let g:rubycomplete_classes_in_global = 1
             "let g:rubycomplete_rails = 1
+            "txtbrowser and fastfold is for customerized txt and neocomplete
+            "tagbar and vim-ruby is for better ruby programming experience
+            Bundle 'TxtBrowser'
+            Bundle 'Konfekt/FastFold'
+            Bundle 'majutsushi/tagbar'
+            Bundle 'vim-ruby/vim-ruby'
         endif
     " }
 
