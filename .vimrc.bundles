@@ -262,7 +262,7 @@
             "tagbar and vim-ruby is for better ruby programming experience
             Bundle 'TxtBrowser'
             Bundle 'Konfekt/FastFold'
-            Bundle 'majutsushi/tagbar'
+            Bundle 'vim-scripts/taglist.vim'
             Bundle 'vim-ruby/vim-ruby'
         endif
     " }
